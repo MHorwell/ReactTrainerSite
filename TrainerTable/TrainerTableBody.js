@@ -13,7 +13,6 @@ class TrainerTableBody extends Component {
             );
         });
 
-
         return (
             <tbody>
                 {output}
